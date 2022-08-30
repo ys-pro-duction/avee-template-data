@@ -52,12 +52,27 @@
       "item_name": "Red and white viz",
       "yt": "s3XOE6iQfQw"
     },
-    {
-      "AdSwitch": "off",
+{
       "dlink": "https://firebasestorage.googleapis.com/v0/b/avee-player-latest-templ-59481.appspot.com/o/Pirates%20Lover.viz?alt=media&token=3e2d665f-d51f-4c2f-bf3a-9d02f97823c7",
       "imgurl": "https://firebasestorage.googleapis.com/v0/b/avee-player-latest-templ-59481.appspot.com/o/Pirates%20Lover.jpg?alt=media&token=2adc5c5f-c284-4847-8018-efe23109392c",
       "item_name": "Pirates Lover",
       "yt": "SJl_i9zPSvI"
-    }
+    },
+{
+      "dlink": "https://ys-pro-duction.github.io/avee-template-data/Love%20-%20feel%20the%20music.viz",
+      "imgurl": "https://ys-pro-duction.github.io/avee-template-data/Love%20-%20feel%20the%20music.jpg",
+      "item_name": "Love - feel the music",
+      "yt": "PQmnoWNtVCw"
+    },
+{
+      "dlink": "https://ys-pro-duction.github.io/avee-template-data/Love%20-%20green%20explode.viz",
+      "imgurl": "https://ys-pro-duction.github.io/avee-template-data/Love%20-%20green%20explode.jpg",                                        
+"item_name": "Love - green explode",
+      "yt": "22zDnisB9zU"                                           },
+{
+      "dlink": "https://ys-pro-duction.github.io/avee-template-data/Love%20-%20heart%20wave.viz",
+      "imgurl": "https://ys-pro-duction.github.io/avee-template-data/Love%20-%20heart%20wave.jpg",
+"item_name": "Love - heart wave",
+      "yt": "RU19NgTr7ig"                                           }
   ]
 }
