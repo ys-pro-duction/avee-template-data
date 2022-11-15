@@ -16,7 +16,13 @@
       "ma2_i": "ca-app-pub-1051000134555897/9342968860"
     },
   "Items": [
-  {
+{
+"dlink": "https://ys-pro-duction.github.io/avee-template-data/Smokey%20hacker.viz",
+"imgurl": "https://ys-pro-duction.github.io/avee-template-data/Smokey%20hacker.jpg",
+"item_name": "Smokey hacker",
+"yt": "RfS6rVKqCCg"
+}
+,  {
 "dlink": "https://ys-pro-duction.github.io/avee-template-data/Neon%20skull.viz",
 "imgurl": "https://ys-pro-duction.github.io/avee-template-data/Neon%20skull.jpg",
 "item_name": "Neon skull",
