@@ -1,4 +1,4 @@
-{
+  j{
   "Ads": {
       "ADS": false,
       "AID": "ca-app-pub-1051000134555897~7379914843",
@@ -19,12 +19,6 @@
     },
   "Items": [
 {
-"dlink": "https://ys-pro-duction.github.io/avee-template-data/Sad%20boy.viz",
-"imgurl": "https://ys-pro-duction.github.io/avee-template-data/Sad%20boy.jpg",
-"item_name": "Sad boy",
-"yt": "7Xyj9xI06uE"
-}
-,{
 "dlink": "https://ys-pro-duction.github.io/avee-template-data/Hexagon%20flame.viz",
 "imgurl": "https://ys-pro-duction.github.io/avee-template-data/Hexagon%20flame.jpg",
 "item_name": "Hexagon flame",
